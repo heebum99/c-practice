@@ -33,5 +33,13 @@
     <ClCompile Include="random.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="khb.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
