@@ -57,6 +57,9 @@
     <ClCompile Include="m_array_project.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="khb.h">
